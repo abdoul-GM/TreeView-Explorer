@@ -9,8 +9,8 @@ Fonctionnalités : affichage arborescent, recherche, copie dans le presse-papier
 
 #### 💡 Interface principale (avec arborescence chargée)
 
-![explorateur\_main](screenshots/main_1.png)
-![explorateur\_main](screenshots/main_2.png)
+![explorateur\_main](screenshots/explorateur_main_1.png)
+![explorateur\_main](screenshots/explorateur_main_2.png)
 
 #### 🔍 Recherche dans l'arborescence
 
